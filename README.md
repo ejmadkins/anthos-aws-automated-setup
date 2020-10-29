@@ -1,0 +1,1 @@
+# anthos-aws-automated-setup
